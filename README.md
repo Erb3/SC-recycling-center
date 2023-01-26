@@ -9,3 +9,9 @@ A recycling center on the SwitchCraft minecraft server.
 Originally made by PC_Cat, now maintained by the public.
 
 **The code is currently quite bad, and we know it. It had to be made ASAP, so feel free to improve with PRs.**
+
+## Requirements:
+
+* Everything must run on one turtle
+* No startup chaining
+* No profiting
